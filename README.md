@@ -30,8 +30,7 @@ This project was developed with the following techs:
 - GraphQl
 
 ## 💻 Project
-VideoPlatform is a application based on Rocketseat's videos. 
-
+VideoPlatform is an application that allows us to create new subscribers to watch videos that the developer chooses
 
 ## 🎓 Rocketseat
  We have created a dedicated environment so that programmers and programmers can connect with opportunities, study and grow in careers through a complete and continuous learning journey.
