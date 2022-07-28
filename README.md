@@ -3,17 +3,20 @@
  </h1>
   
 <p align="center">
+  <img src="./public/formPage.jpg" alt="Form page image" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  
+  <br>
   <a href="#-tech">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-rocketseat">Rocketseat</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout"> Layout </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-considerations"> Considerations </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
-  <a href="#memo-license">License</a>
 </p>
 
-<img src="./public/formPage.jpg" alt="Form page image" />
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+
+
 
 <br>
 
