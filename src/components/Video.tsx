@@ -58,7 +58,7 @@ export function Video(props: VideoProps) {
                     </div>
 
                     <div className="flex flex-col gap-4">
-                        <a href="" className="p-4 
+                        <a href="https://discord.com/invite/rocketseat" className="p-4 
                         text-sm font-bold
                         bg-blue-600
                         flex items-center
@@ -70,7 +70,7 @@ export function Video(props: VideoProps) {
                             <DiscordLogo size={24}/>
                             Discord's Community 
                         </a>
-                        <a href="" className="p-4 
+                        <a href="https://github.com/DevDuque/DevDuque" className="p-4 
                         text-sm font-bold
                         border-blue-500
                         text-blue-500 
@@ -81,14 +81,14 @@ export function Video(props: VideoProps) {
                         transition-colors
                         ">
                             <Lightning size={24}/>
-                            Challenges
+                            Author
                         </a>
                     </div>
                 </div>
                 <div className="gap-8 mt-20 grid grid-cols-2">
 
                     <a 
-                    href=""
+                    href="https://www.figma.com/community/file/1120711251998877938"
                     className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors"
                     >
                         <div className="bg-green-700 h-full p-6 flex items-center"> 
@@ -97,7 +97,7 @@ export function Video(props: VideoProps) {
                         <div className="py-6 leading-relaxed">
                             <strong className="text-2xl"> Extras </strong>
                             <p className="text-sm text-gray-200 mt-2">
-                                Access the extras to speed up your journey 🚀
+                                Access the layout to speed up your journey 🚀
                             </p>
                         </div>
                         <div className="h-full p-6 flex items-center">
