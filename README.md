@@ -1,6 +1,4 @@
-<h1 align="center">
-  Access the [App](https://www.figma.com/community/file/1120711251998877938)
-</h1>
+You can view the projectthrough [This Link](https://www.figma.com/community/file/1120711251998877938)
 
 <p align="center">
   <a href="#-tech">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
