@@ -1,0 +1,17 @@
+UnderFetching = When the back-end doesn`t return everything useful for front-end
+
+HigherFetching = When the back-end returns everything even being useless at the moment
+
+
+ContentAPI
+https://api-sa-east-1.hygraph.com/v2/cl5tnbye92ll201uo3zk1gk0x/master
+
+Asset UploadAPI
+https://api-sa-east-1.hygraph.com/v2/cl5tnbye92ll201uo3zk1gk0x/master/upload
+
+ManagementAPI
+https://management.hygraph.com/graphql
+
+
+Get ready, it's about to start... 🚀 
+49:40
