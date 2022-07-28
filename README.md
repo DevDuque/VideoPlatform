@@ -1,11 +1,11 @@
 <h1 align="center">
-  Vue Weather
+  Access the [App](https://www.figma.com/community/file/1120711251998877938)
 </h1>
 
 <p align="center">
   <a href="#-tech">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rocketseat">About Rocketseat</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rocketseat">Rocketseat</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout"> Layout </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-considerations"> Considerations </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
