@@ -1,5 +1,7 @@
-You can view the projectthrough [This Link](https://www.figma.com/community/file/1120711251998877938)
-
+<h1 align="center">
+  Video Platform
+ </h1>
+  
 <p align="center">
   <a href="#-tech">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
