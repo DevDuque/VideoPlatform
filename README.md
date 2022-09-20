@@ -36,7 +36,7 @@ VideoPlatform is an application that allows us to create new subscribers to watc
  We have created a dedicated environment so that programmers and programmers can connect with opportunities, study and grow in careers through a complete and continuous learning journey.
  
  ## 🎨 Layout
- You can view the project layout through [This Link](https://www.figma.com/community/file/1120711251998877938). It's necessary to have a account on [Figma](http://figma.com/) to view it.
+ You can view the project layout through [This Link](https://www.figma.com/file/FSbpSIXOSjbjEMGVfcshx3/NLW-eSports-(Community)). It's necessary to have a account on [Figma](http://figma.com/) to view it.
  
  ## ♥ Considerations 
  Rocketseat is responsible for this project, without its classes that would never be possible. Thank you Rocketseat ♥
